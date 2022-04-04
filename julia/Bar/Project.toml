@@ -1,0 +1,5 @@
+uuid = "d6d83be5-e415-45a9-b4c3-f16376d9992a"
+name = "Bar"
+
+[deps]
+PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
