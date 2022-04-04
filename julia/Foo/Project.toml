@@ -1,0 +1,5 @@
+uuid = "fdd1085a-9f79-4a83-9a23-f2e3e5a2036c"
+name = "Foo"
+
+[deps]
+PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
