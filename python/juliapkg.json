@@ -1,0 +1,14 @@
+{
+    "julia": "1.7",
+    "packages": {
+        "Foo": {
+            "uuid": "fdd1085a-9f79-4a83-9a23-f2e3e5a2036c",
+            "dev": true,
+            "path": "/home/u54671/repos/tmp/julia/Foo"
+        },
+        "PythonCall": {
+            "uuid": "6099a3de-0909-46bc-b1f4-468b9a2dfc0d",
+            "version": "0.8.0"
+        }
+    }
+}
